@@ -9,7 +9,7 @@ http://ec2-18-169-184-55.eu-west-2.compute.amazonaws.com/
 
 ---
 
-## ## Tech Stack
+## Tech Stack
 - Python (Pandas, Numpy, Data Cleaning, Outlier detection, Features Engineering, EDA)
 - Machine Learning Model Development (Linear Regression, Lasso Regression, Decision Tree, Hyperparameter tuning)
 - Flask (for backend Server Api)
@@ -159,7 +159,7 @@ docker run -d --name house-price-app -p 80:80 house-price-prediction
 
 ---
 
-## Frontend
+## Frontend & Backend
 
 - Frontend files are in `client/` folder.
 - Interacts with Flask API to fetch location names and predictions which is in `Server/` folder.
