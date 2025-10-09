@@ -5,18 +5,18 @@ A Machine Learning project to predict house prices in Bengaluru, India using his
 ---
 
 # Project Demo Link
-http://ec2-18-169-184-55.eu-west-2.compute.amazonaws.com/
+https://ec2-18-169-184-55.eu-west-2.compute.amazonaws.com/
 
 ---
 
 ## Tech Stack
 - Python (Pandas, Numpy, Data Cleaning, Outlier detection, Features Engineering, EDA)
-- Machine Learning Model Development (Linear Regression, Lasso Regression, Decision Tree, Hyperparameter tuning)
+- Machine Learning Model Development (Linear Regression, Lasso Regression, Decision Tree, Random Forest, XGBoost, Hyperparameter tuning)
 - Flask (for backend Server Api)
 - Nginx Webserver for frontend to interact with flask API Server
 - Docker
 - AWS EC2, ECR Services
-- HTML, CSS, JavaScript (For Developing website Frontend to integrate CLient)
+- HTML, CSS, JavaScript (For Developing website Frontend to integrate Client)
 - Github
 
 ## Project Structure
